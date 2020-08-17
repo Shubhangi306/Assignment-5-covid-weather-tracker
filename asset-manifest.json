@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Assignment-5-covid-weather-tracker/static/css/main.d7bf50fc.chunk.css",
+    "main.js": "/Assignment-5-covid-weather-tracker/static/js/main.f6b62351.chunk.js",
+    "main.js.map": "/Assignment-5-covid-weather-tracker/static/js/main.f6b62351.chunk.js.map",
+    "runtime-main.js": "/Assignment-5-covid-weather-tracker/static/js/runtime-main.ad8308c0.js",
+    "runtime-main.js.map": "/Assignment-5-covid-weather-tracker/static/js/runtime-main.ad8308c0.js.map",
+    "static/css/2.60f741de.chunk.css": "/Assignment-5-covid-weather-tracker/static/css/2.60f741de.chunk.css",
+    "static/js/2.18bc729b.chunk.js": "/Assignment-5-covid-weather-tracker/static/js/2.18bc729b.chunk.js",
+    "static/js/2.18bc729b.chunk.js.map": "/Assignment-5-covid-weather-tracker/static/js/2.18bc729b.chunk.js.map",
+    "index.html": "/Assignment-5-covid-weather-tracker/index.html",
+    "precache-manifest.453bec30d07c8604ae2d48d9b4aab556.js": "/Assignment-5-covid-weather-tracker/precache-manifest.453bec30d07c8604ae2d48d9b4aab556.js",
+    "service-worker.js": "/Assignment-5-covid-weather-tracker/service-worker.js",
+    "static/css/2.60f741de.chunk.css.map": "/Assignment-5-covid-weather-tracker/static/css/2.60f741de.chunk.css.map",
+    "static/css/main.d7bf50fc.chunk.css.map": "/Assignment-5-covid-weather-tracker/static/css/main.d7bf50fc.chunk.css.map",
+    "static/js/2.18bc729b.chunk.js.LICENSE.txt": "/Assignment-5-covid-weather-tracker/static/js/2.18bc729b.chunk.js.LICENSE.txt",
+    "static/media/Clouds.jpg": "/Assignment-5-covid-weather-tracker/static/media/Clouds.83dd9350.jpg",
+    "static/media/drizzle.jpg": "/Assignment-5-covid-weather-tracker/static/media/drizzle.ade49d8d.jpg",
+    "static/media/foggy.jpg": "/Assignment-5-covid-weather-tracker/static/media/foggy.c27cc1c9.jpg",
+    "static/media/rain.jpg": "/Assignment-5-covid-weather-tracker/static/media/rain.6391e874.jpg",
+    "static/media/snow.jpg": "/Assignment-5-covid-weather-tracker/static/media/snow.28af8fbf.jpg",
+    "static/media/sunny.jpg": "/Assignment-5-covid-weather-tracker/static/media/sunny.9163b11c.jpg",
+    "static/media/thunderstorm.jpg": "/Assignment-5-covid-weather-tracker/static/media/thunderstorm.de75e0d6.jpg",
+    "static/media/weather-icons.css": "/Assignment-5-covid-weather-tracker/static/media/weathericons-regular-webfont.ed0943f2.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad8308c0.js",
+    "static/css/2.60f741de.chunk.css",
+    "static/js/2.18bc729b.chunk.js",
+    "static/css/main.d7bf50fc.chunk.css",
+    "static/js/main.f6b62351.chunk.js"
+  ]
+}
