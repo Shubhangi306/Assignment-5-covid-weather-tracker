@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Assignment-5-covid-weather-tracker/precache-manifest.453bec30d07c8604ae2d48d9b4aab556.js"
+  "/Assignment-5-covid-weather-tracker/precache-manifest.3509bc8d7869fd15dbd397403f51bbbf.js"
 );
 
 self.addEventListener('message', (event) => {

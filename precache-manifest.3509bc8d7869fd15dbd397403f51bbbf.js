@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3fe41b30c6391df724d450c0f9f7a312",
+    "revision": "d1737c488205faea611e41f203663086",
     "url": "/Assignment-5-covid-weather-tracker/index.html"
   },
   {
-    "revision": "fa77eb3adae4f185249d",
+    "revision": "311355ce18f561532706",
     "url": "/Assignment-5-covid-weather-tracker/static/css/2.60f741de.chunk.css"
   },
   {
-    "revision": "d030e261da49daabe3a5",
+    "revision": "e90dd55e11f04e7c7caa",
     "url": "/Assignment-5-covid-weather-tracker/static/css/main.d7bf50fc.chunk.css"
   },
   {
-    "revision": "fa77eb3adae4f185249d",
-    "url": "/Assignment-5-covid-weather-tracker/static/js/2.18bc729b.chunk.js"
+    "revision": "311355ce18f561532706",
+    "url": "/Assignment-5-covid-weather-tracker/static/js/2.dfde4ce9.chunk.js"
   },
   {
     "revision": "176852ae27885dfd7559e0fb4b332d24",
-    "url": "/Assignment-5-covid-weather-tracker/static/js/2.18bc729b.chunk.js.LICENSE.txt"
+    "url": "/Assignment-5-covid-weather-tracker/static/js/2.dfde4ce9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d030e261da49daabe3a5",
-    "url": "/Assignment-5-covid-weather-tracker/static/js/main.f6b62351.chunk.js"
+    "revision": "e90dd55e11f04e7c7caa",
+    "url": "/Assignment-5-covid-weather-tracker/static/js/main.308fa738.chunk.js"
   },
   {
     "revision": "a5df683080700c2d035f",
